@@ -46,7 +46,12 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-darkslategray?logo=Eclipse&logoColor=blue)
 
 ## About Me
-I'm a passionate software developer with experience in developing web applications and working with various programming languages, tools, and frameworks. I am constantly learning and exploring new technologies to improve my skills and knowledge. I am also an avid Lua lover and Reverse Engineering enthusiast. I love to know how something works internally, or even reviving old, dead games and their servers. I have been programming ever since I was 12 with strong interests in gaming. I am a strong advocate for free software and contribution to the greater good. You may find me also monitoring README's of projects for clarity and conciseness or even contributing to your project directly.
+
+![Hello](https://fontmeme.com/permalink/230317/cbc2223e97ef6fdbf101b309d3bf619e.png)
+
+I'm a good humored, passionate software developer with experience in developing web applications and working with various programming languages, tools, and frameworks. I am constantly learning and exploring new technologies to improve my skills and knowledge. I am also an avid Lua lover and Reverse Engineering enthusiast. I love to know how something works internally, or even reviving old, dead games and their servers. I have been programming ever since I was 12 with strong interests in gaming. I am a strong advocate for free software and contribution to the greater good. You may find me also monitoring README's of projects for clarity and conciseness or even contributing to your project directly.
+
+I know the importance of good clean and concise code, documentation, deployment, testing before shipping, and creating quality products. You can count on me to find the median point between efficiency and robustness. Write a program too fast and its features are limited and buggy for other usecases. Write a program too slow and you miss deadlines or is overengineered for the client's needs. This is where DevOps shines in an Agile environment.
 
 ## My Projects
 See my pinned repos below. I am quite proud of them.
