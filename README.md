@@ -49,6 +49,6 @@
 I'm a passionate software developer with experience in developing web applications and working with various programming languages, tools, and frameworks. I am constantly learning and exploring new technologies to improve my skills and knowledge. I am also an avid Lua lover and Reverse Engineering enthusiast. I love to know how something works internally, or even reviving old, dead games and their servers. I have been programming ever since I was 12 with strong interests in gaming. I am a strong advocate for free software and contribution to the greater good. You may find me also monitoring README's of projects for clarity and conciseness or even contributing to your project directly.
 
 ## My Projects
-See my pinned repos. I am quite proud of them.
+See my pinned repos below. I am quite proud of them.
 
 
