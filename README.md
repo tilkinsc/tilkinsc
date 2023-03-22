@@ -1,9 +1,12 @@
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=tilkinsc&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tilkinsc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tilkinsc&count_private=true&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilkinsc&layout=compact&theme=radical">
+</p>
 
 ## Skills
 
 ![Certification](https://img.shields.io/badge/Networking%20Certification-darkslategray?logo=wireshark&logoColor=blue)
-![Certification](https://img.shields.io/badge/Reverse%20Engineering-darkslategray?logo=ida)
+![ReverseEngineering](https://img.shields.io/badge/Reverse%20Engineering-darkslategray?logo=ida)
 
 ![C#](https://img.shields.io/badge/C%23.NET%20Core-darkslategray?logo=dotnet)
 ![Java](https://img.shields.io/badge/Java-darkslategray?logo=openjdk&logoColor=black)
@@ -45,13 +48,19 @@
 ![Intellij IDEA](https://img.shields.io/badge/Intellij-darkslategray?logo=Intellij%20IDEA&logoColor=black)
 ![Eclipse](https://img.shields.io/badge/Eclipse-darkslategray?logo=Eclipse&logoColor=blue)
 
-## About Me
+<hr>
 
-![Hello](https://fontmeme.com/permalink/230317/cbc2223e97ef6fdbf101b309d3bf619e.png)
+<p align="center">
+<img src=https://fontmeme.com/permalink/230317/cbc2223e97ef6fdbf101b309d3bf619e.png>
+</p>
 
-I'm a good humored, passionate software developer with experience in developing web applications and working with various programming languages, tools, and frameworks. I am constantly learning and exploring new technologies to improve my skills and knowledge. I am also an avid Lua lover and Reverse Engineering enthusiast. I love to know how something works internally, or even reviving old, dead games and their servers. I have been programming ever since I was 12 with strong interests in gaming. I am a strong advocate for free software and contribution to the greater good. You may find me also monitoring README's of projects for clarity and conciseness or even contributing to your project directly.
+<img width=300 align=right src="https://user-images.githubusercontent.com/7494772/226935807-33b8d903-15f4-4a04-a466-a133a5b78ba1.png">
 
-I know the importance of good clean and concise code, documentation, deployment, testing before shipping, and creating quality products. You can count on me to find the median point between efficiency and robustness. Write a program too fast and its features are limited and buggy for other usecases. Write a program too slow and you miss deadlines or is overengineered for the client's needs. This is where DevOps shines in an Agile environment.
+&nbsp;&nbsp;&nbsp;&nbsp;I'm a good humored, passionate software developer with experience in developing web applications and working with various programming languages, tools, and frameworks. I am constantly learning and exploring new technologies to improve my skills and knowledge. I am also an avid Lua lover and Reverse Engineering enthusiast. I love to know how something works internally, or even reviving old, dead games and their servers. I have been programming ever since I was 12 with strong interests in gaming. I am a strong advocate for free software and contribution to the greater good. You may find me also monitoring README's of projects for clarity and conciseness or even contributing to your project directly.
+
+&nbsp;&nbsp;&nbsp;&nbsp;I know the importance of good clean and concise code, documentation, deployment, testing before shipping, and creating quality products. You can count on me to find the median point between efficiency and robustness. Write a program too fast and its features are limited and buggy for other usecases. Write a program too slow and you miss deadlines or is overengineered for the client's needs. This is where DevOps shines in an Agile environment.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Currently, I am embracing AI to achieve tasks in record time that would take me hours to do. AI has opened a new dawn, especially in the right hands with someone knowledgable in [prompting](https://en.wikipedia.org/wiki/Prompt_engineering). I do have to disclaim that AI is a tool and not a substituion for knowledge. I am a learner, and that won't change. You will find me implementing stacks to simply learn them.
 
 ## My Projects
 See my pinned repos below. I am quite proud of them.
