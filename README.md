@@ -42,6 +42,7 @@
 ![Confluence](https://img.shields.io/badge/Confluence-darkslategray?logo=confluence)
 ![Continuous Integration/Deployment](https://img.shields.io/badge/Continuous%20Integration/Deployment%20(CI/CD)-darkslategray?logo=GitHub%20Actions)
 ![SaaS](https://img.shields.io/badge/SaaS-darkslategray?logo=MicroStrategy)
+![OpenAI](https://img.shields.io/badge/AI-darkslategray?logo=OpenAI)
 
 ![VSCode](https://img.shields.io/badge/VSCode-darkslategray?logo=Visual%20Studio%20Code&logoColor=blue)
 ![MSVS](https://img.shields.io/badge/Visual%20Studio-darkslategray?logo=Visual%20Studio&logoColor=blue)
