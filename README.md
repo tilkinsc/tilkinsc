@@ -3,6 +3,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilkinsc&layout=compact&theme=radical">
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Skills
 
 ![Certification](https://img.shields.io/badge/Networking%20Certification-darkslategray?logo=wireshark&logoColor=blue)
